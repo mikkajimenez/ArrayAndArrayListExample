@@ -1,8 +1,6 @@
-# Project Title
+# Arrays vs Array List
 
 This is a simple program that demonstrates the difference between Array and ArrayList.
-
-## Arrays vs ArrayList
 
 **Arrays**
 - Have a fixed size and cannot be changed
