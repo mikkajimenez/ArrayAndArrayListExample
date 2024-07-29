@@ -18,17 +18,6 @@ This is a simple program that demonstrates the difference between Array and Arra
 - Can also use iteration with loops
 
 
-## Installation
+## Link to GitHub
 
-Instructions on how to install and set up the project locally. For example:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repository.git
-
-# Navigate into the directory
-cd your-repository
-
-# If there are dependencies, mention how to install them
-# Example for Maven:
-mvn install
+https://github.com/mikkajimenez/ArrayAndArrayListExample
